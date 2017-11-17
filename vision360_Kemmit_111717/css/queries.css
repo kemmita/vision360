@@ -1,0 +1,106 @@
+
+@media only screen and (max-width: 1090px){
+	#box-wrapper{
+	background-image: url(logo_back_smalltwo.jpg);
+	background-color: white;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 650px;
+		border: none;
+}
+		h3{
+	margin-top: -150px;
+	
+	font-size: 18px;
+	
+}
+	#slogan{
+		font-size: 90%;
+	}
+
+
+	
+}
+
+
+
+
+
+@media only screen and (max-width: 770px){
+	.logo{
+		width: 125px;
+		margin-left: -20px;
+	}
+		#box-wrapper{
+	background-image: url(vision360_logo_small.jpg);
+	background-color: white;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 650px;
+			border: none;
+}
+	#slogan{
+		margin-top: 80px;
+		font-size: 80%;
+	}
+	#slogan:after{
+	display: block;
+	height: 2px;
+	background-color: #BA1E22;
+	content: " ";
+	width: 200px;
+	margin-bottom: 0;
+	margin-top: 0;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+}
+	p{
+		font-size: 90%;
+	}
+
+
+
+
+
+}
+
+	
+	
+	
+@media only screen and (max-width: 540px){
+	.logo{
+		width: 125px;
+	}
+
+
+	.navbar-fixed-bottom{
+	font-size: 60%;
+	
+		border: none;
+		color: whitesmoke;
+	}
+	#slogan{
+		
+		font-size: 70%;
+		
+	}
+	#submit{
+	border-radius: 10px;
+	padding: 10px 40px;
+}
+	#requestformheader{
+		font-size: 125%;
+	}
+	.center-block{
+		width: 225px;
+	}
+	P{
+		font-size: 85%;
+	}
+
+
+
+}
+
+
