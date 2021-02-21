@@ -11,5 +11,4 @@
     <li>Programming Language: PHP</li>
     <li>Markup and Styling Languages: HTML5/CSS3</li>
     <li>Front-End Framework: Bootstrap</li>
-    <li>Text-Editor: Brackets</li>
 </ul>
